@@ -11,6 +11,8 @@
 <h2>Git Practical Completed</h2>
 <p>This is my first Git project.</p>
 <button onclick="showMessage()">Click Me</button>
+<h4>hello my name is tisha</h4>
+<h4>git hub demo evolution</h4>
 <script src="script.js"></script>
 </body>
 </html>
